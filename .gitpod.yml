@@ -40,6 +40,8 @@ vscode:
     - yzhang.markdown-all-in-one
     - bungcip.better-toml
     - mhutchie.git-graph
+    - ms-toolsai.jupyter
+
 
 # --------------------------------------------------------
 # using prebuilds for the container - note: atm this only
